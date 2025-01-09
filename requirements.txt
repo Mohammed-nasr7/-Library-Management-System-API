@@ -1,22 +1,16 @@
 
-
-
-
-
-    Django
-    الإصدار: 3.x أو أحدث
-
-    Django REST Framework (DRF)
-    الإصدار: 3.x أو أحدث
-
-    SQLite (قاعدة البيانات الافتراضية)
-    الإصدار: متضمن مع Django 
-
-    Django CORS Headers
-    الإصدار: 3.x أو أحدث
-    (يستخدم لإعداد CORS للسماح بالطلبات عبر المصادر الخارجية)
-
-    
-
-    Django Auth (المصادقة التقليدية باستخدام اسم المستخدم وكلمة المرور)
-    الإصدار: مدمج مع Django
+asgiref==3.8.1
+Django==5.1.2
+django-filter==24.3
+djangorestframework==3.15.2
+djangorestframework_simplejwt==5.4.0
+drf-yasg==1.21.8
+inflection==0.5.1
+packaging==24.2
+pillow==11.0.0
+PyJWT==2.10.1
+pytz==2024.2
+PyYAML==6.0.2
+sqlparse==0.5.1
+tzdata==2024.2
+uritemplate==4.1.1
